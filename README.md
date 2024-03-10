@@ -12,6 +12,11 @@
   <img align="center" alt="jb-Js" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="jb-HTML" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="jb-CSS" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="jb-CSS" height= "30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor.svg">
+
+
+
+
 </div>
 
 ##
