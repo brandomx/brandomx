@@ -1,4 +1,18 @@
-### Hello, eu sou o Brandom 
+### Hello,👋 eu sou o Brandom!
+
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Explorando o mundo da tecnologia e desenvolvimento
+📍 Interessado em Desenvolvimento Web, Segurança da Informação e Engenharia de Dados
+
+🔧 Tecnologias & Habilidades
+Linguagens: Python, JavaScript, HTML, CSS, SQL
+Ferramentas: Git/GitHub, Linux, VS Code
+Interesses: Desenvolvimento Backend, Redes de Computadores, Pentesting
+📚 Em constante aprendizado
+Atualmente, participando do bootcamp NTT DATA - Engenharia de Dados com Python e aprofundando meus conhecimentos em desenvolvimento e segurança.
+
+🚀 Conecte-se comigo!
+💬 Vamos trocar ideias e aprender juntos!
 
 
 
